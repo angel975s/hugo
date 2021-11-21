@@ -1,6 +1,6 @@
 baseURL = 'https://angel975s.github.io/hugo/'
 languageCode = 'es-es'
-
+publishDir = "docs" 
 
 theme =['beautiful']
 
