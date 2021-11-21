@@ -2,73 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/</loc>
-    <lastmod>2021-11-21T00:34:37+01:00</lastmod>
+    <loc>https://github.com/angel975s/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/"
+                href="https://github.com/angel975s/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://example.org/"
+                href="https://github.com/angel975s/"
                 />
   </url><url>
-    <loc>http://example.org/posts/esto-es-hugo/</loc>
-    <lastmod>2021-11-21T00:34:37+01:00</lastmod>
-  </url><url>
-    <loc>http://example.org/posts/</loc>
-    <lastmod>2021-11-21T00:34:37+01:00</lastmod>
-  </url><url>
-    <loc>http://example.org/docs/</loc>
-    <lastmod>2021-11-18T00:32:05+01:00</lastmod>
+    <loc>https://github.com/angel975s/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/docs/"
+                href="https://github.com/angel975s/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://example.org/docs/"
+                href="https://github.com/angel975s/categories/"
                 />
   </url><url>
-    <loc>http://example.org/docs/prueba/</loc>
-    <lastmod>2021-11-18T00:32:05+01:00</lastmod>
+    <loc>https://github.com/angel975s/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/docs/prueba/"
+                href="https://github.com/angel975s/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://example.org/docs/prueba/"
-                />
-  </url><url>
-    <loc>http://example.org/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://example.org/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://example.org/categories/"
-                />
-  </url><url>
-    <loc>http://example.org/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://example.org/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://example.org/tags/"
+                href="https://github.com/angel975s/tags/"
                 />
   </url>
 </urlset>

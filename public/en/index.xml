@@ -1,20 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Example use language</title>
-    <link>http://example.org/en/</link>
-    <description>Recent content on Example use language</description>
+    <title></title>
+    <link>https://github.com/angel975s/en/</link>
+    <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 18 Nov 2021 00:31:31 +0100</lastBuildDate><atom:link href="http://example.org/en/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Prueba</title>
-      <link>http://example.org/en/docs/prueba/</link>
-      <pubDate>Thu, 18 Nov 2021 00:31:31 +0100</pubDate>
-      
-      <guid>http://example.org/en/docs/prueba/</guid>
-      <description></description>
-    </item>
-    
+    <language>es-es</language>
+    <managingEditor>example@example.com (Angel)</managingEditor>
+    <webMaster>example@example.com (Angel)</webMaster><atom:link href="https://github.com/angel975s/en/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
