@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docs on Ejemplo para el uso de idiomas</title>
+    <link>http://example.org/docs/</link>
+    <description>Recent content in Docs on Ejemplo para el uso de idiomas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 Nov 2021 00:32:05 +0100</lastBuildDate><atom:link href="http://example.org/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Prueba</title>
+      <link>http://example.org/docs/prueba/</link>
+      <pubDate>Thu, 18 Nov 2021 00:32:05 +0100</pubDate>
+      
+      <guid>http://example.org/docs/prueba/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ejemplo para el uso de idiomas</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Ejemplo para el uso de idiomas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 21 Nov 2021 00:34:37 +0100</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Esto Es Hugo</title>
+      <link>http://example.org/posts/esto-es-hugo/</link>
+      <pubDate>Sun, 21 Nov 2021 00:34:37 +0100</pubDate>
+      
+      <guid>http://example.org/posts/esto-es-hugo/</guid>
+      <description>Este es el cuerpo de la página.
+Podemos colocar cualquier cantidad de contenido en nuestra página.</description>
+    </item>
+    
+    <item>
+      <title>Prueba</title>
+      <link>http://example.org/docs/prueba/</link>
+      <pubDate>Thu, 18 Nov 2021 00:32:05 +0100</pubDate>
+      
+      <guid>http://example.org/docs/prueba/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

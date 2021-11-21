@@ -1,0 +1,88 @@
+baseURL = 'https://github.com/angel975s'
+languageCode = 'es-es'
+
+
+theme =['beautiful']
+
+#Idioma por defecto
+defaultContentLanguage="es"
+
+metaDataFormat = "yaml"
+pygmentsStyle = "trac"
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+#pygmentsUseClassic = true
+#pygmentOptions = "linenos=inline"
+#disqusShortname = "XXX"
+#googleAnalytics = "XXX"
+
+[Params]
+  mainSections = ["post","posts"]
+  logo = "img/avatar-icon.png" # Expecting square dimensions
+  favicon = "img/favicon.ico"
+  dateFormat = "January 2, 2006"
+  commit = false
+  rss = true
+  comments = true
+  readingTime = true
+  wordCount = true
+  useHLJS = true
+  socialShare = true
+  delayDisqus = true
+  showRelatedPosts = true
+
+
+[Author]
+  name = "Angel"
+  website = "example.com"
+  email = "example@example.com"
+  facebook = "example"
+  twitter = "example"
+  instagram = "example"
+
+
+[languages]
+
+####################
+    [languages.es]
+        languageName = "Español"
+        ContentDir ="content/es"
+        weight = 1
+    [[languages.es.menu.main]]
+        name = "Contacto"
+        url = "/contacto"
+
+    [[languages.es.menu.main]]
+        name = "Sobre mí"
+        url = "/sobre_mi"
+
+    [[languages.es.menu.main]]
+        name = "Ubicacion"
+        url = "/ubicacion"
+
+
+
+
+
+
+
+
+####################
+  [languages.en]
+
+        languageName = "English"
+        ContentDir ="content/en"
+        weight = 2
+
+    [[languages.en.menu.main]]
+        name = "Contact"
+        url = "/contact"
+
+    [[languages.en.menu.main]]
+        name = "About me"
+        url = "/about_me"
+
+    [[languages.en.menu.main]]
+        name = "Location"
+        url = "/location"
